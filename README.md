@@ -3,8 +3,8 @@
 🎓 **BS Computer Science** Graduate — *Cebu Institute of Technology–University*  
 💻 **Software Engineer / Developer** — *AI/ML & Fullstack Development Enthusiast*  
 
-🚀 Passionate about crafting smart, scalable web apps and exploring how machine learning can make them even smarter... scope creep? lezgooo jk. 🤣🫵
-🌱 Currently sharpening my skills in **Angular**, **React**, and **AI-powered applications**.  
+🚀 Passionate about crafting smart, scalable web apps and exploring how machine learning can make them even smarter... scope creep? lezgooo jk. 🤣🫵 <br>
+🌱 Currently sharpening my skills in **Angular**, **React**, and **AI-powered applications**.   <br>
 🤖 Occasionally creating bots and random apps you may or may not need — because why not?  
 
 ---
