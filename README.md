@@ -5,7 +5,9 @@
 
 🚀 Passionate about crafting smart, scalable web apps and exploring how machine learning can make them even smarter... scope creep? lezgooo jk. 🤣🫵 <br>
 🌱 Currently sharpening my skills in **Angular**, **React**, and **AI-powered applications**.   <br>
-🤖 Occasionally creating bots and random apps you may or may not need — because why not?  
+🤖 Occasionally creating bots and random apps you may or may not need — because why not?   <br>
+📫 Get in Touch <br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zaibebugging) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saizairai.z@gmail.com) 
 
 ---
 # 💻 Tech Stack:
@@ -36,3 +38,5 @@
 [![](https://visitcount.itsvg.in/api?id=zewawa&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
