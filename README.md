@@ -1,4 +1,4 @@
-## 👋 Hiya! I'm Zai 🐱  
+## 👋 Hiya! I'm Zai 🐱   — on a short break after Typhoon Tino in Cebu 🌧️
 
 🎓 **BS Computer Science** Graduate — *Cebu Institute of Technology–University*  
 💻 **Software Engineer / Developer** — *AI/ML & Fullstack Development Enthusiast*  
